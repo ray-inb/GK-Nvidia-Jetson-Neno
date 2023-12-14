@@ -1,2 +1,2 @@
-# GK-Nvidia-Jetson-Neno
+# GK-NVIDIA-Jetson-Neno
 Learning
